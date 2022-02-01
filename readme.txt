@@ -1,3 +1,5 @@
+**Note** RRCHNM archived this repository in February 2022. Last code activity was September 2010. If you need more information or to unarchive this repository, please contact us at webmaster@chnm.gmu.edu.
+
 === THATCamp Scheduler ===
 Contributors: jeremyboggs
 Donate link: http://chnm.gmu.edu/
